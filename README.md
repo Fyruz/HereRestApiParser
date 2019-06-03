@@ -1,5 +1,5 @@
 # HereRestApiParser
-an example of how to use the HERE REST API service, parsing a query response from JSON to Java Classes
+An example of how to use the HERE REST API service, parsing a query response from JSON to Java Classes
 
 InternetCaller is using template pattern.
 ExploreByCategories extends InternetCaller.
